@@ -14,3 +14,17 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 3.Power jack(Used to give power Supply to the board)
 
 4.16MHZ Crystal Oscillator (used to calculate the time for Micro controller)
+
+
+## Pin diagram
+
+![pins](https://github.com/samudralaAbhiramrao/Arduino-experiments/blob/main/images/Arduino-Uno-Pin-Diagram.png " PinDiagram")
+
+
+1.Digital pins :14
+   - 6pins used for Pulse Width Modulation(pwd)
+
+
+2.Analog Pins :6
+
+
